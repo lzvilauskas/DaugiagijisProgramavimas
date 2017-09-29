@@ -1,0 +1,8 @@
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\bin\Debug\1 praktine uzduotis.exe
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\bin\Debug\1 praktine uzduotis.pdb
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\obj\Debug\1 praktine uzduotis.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\obj\Debug\_1_praktine_uzduotis.Form1.resources
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\obj\Debug\_1_praktine_uzduotis.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\obj\Debug\1 praktine uzduotis.csproj.GenerateResource.Cache
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\obj\Debug\1 praktine uzduotis.exe
+C:\Users\Lukas\Desktop\Liogio praktiniai darbai\1 praktine uzduotis\1 praktine uzduotis\obj\Debug\1 praktine uzduotis.pdb
